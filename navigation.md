@@ -12,12 +12,14 @@
   * # Support
   * [Tool Installation](toolInstall.md)
   * [Best Practices](BestPractices.md)
-  * # Rules
-[Coding rules]()
-  * [Rules] (rules.md)
-  * [Powershell](Powershell.md)
-  * [Rules checker](rulesChecker.md)
 
+
+[Coding rules]()
+
+  * # Rules
+  * [Rules] (rules.md)
+  * [Rules checker](rulesChecker.md)
+  - - - -
   * [Tool Structure](ToolStructure.md)
   * [Naming Convention](Naming.md)
 
