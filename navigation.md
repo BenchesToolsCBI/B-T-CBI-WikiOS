@@ -14,9 +14,9 @@
   * [Best Practices](BestPractices.md)
 
 [Coding rules]()
-  * # Rules
-  * [Powershell](Powershell.md) rules.md
-  * # Rules checker
+  * # [Rules] (rules.md)
+  * [Powershell](Powershell.md)
+  * # [Rules checker](rulesChecker.md)
 
   * [Tool Structure](ToolStructure.md)
   * [Naming Convention](Naming.md)
