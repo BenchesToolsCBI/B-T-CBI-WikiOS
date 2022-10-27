@@ -17,7 +17,7 @@
 [Coding rules]()
 
   * # Rules
-  * [Rules] (rules.md)
+  * [Rules](rules.md)
   * [Rules checker](rulesChecker.md)
   - - - -
   * [Tool Structure](ToolStructure.md)
