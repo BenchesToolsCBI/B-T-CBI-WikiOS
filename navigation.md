@@ -1,9 +1,3 @@
----
-title : B&T Wiki
-permalink : /navigation
-layout : default
----
-
 # B&T Wiki
 
 [Knowledge]()
