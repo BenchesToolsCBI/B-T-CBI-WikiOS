@@ -3,7 +3,7 @@ title : B&T Wiki
 permalink : /
 layout : default
 ---
-=======
+
 B&T Wiki is a documentation center for the development activities of Bench & Tools (B&T) team.
 It is mutually maitained by B&T team members.
 
