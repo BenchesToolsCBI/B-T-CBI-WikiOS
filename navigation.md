@@ -12,7 +12,7 @@
   * # Support
   * [Tool Installation](toolInstall.md)
   * [Best Practices](BestPractices.md)
-
+  * # Rules
 [Coding rules]()
   * [Rules] (rules.md)
   * [Powershell](Powershell.md)
