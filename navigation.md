@@ -18,7 +18,7 @@
 
   * # Rules
   * [Rules](rules.md)
-  * [Rules checker](rulesChecker.md)
+  * [Rules checker](rulesCheck.md)
   - - - -
   * [Tool Structure](ToolStructure.md)
   * [Naming Convention](Naming.md)
