@@ -1,8 +1,3 @@
----
-title : B&T Wiki
-permalink : /Tool_Installation
-layout : default
----
 =======
 
 PowerShell
