@@ -1,6 +1,5 @@
 ---
 title : B&T Wiki
-permalink : /
 layout : default
 ---
 
