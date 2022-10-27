@@ -1,6 +1,6 @@
 # B&T Wiki
 
-[Knowledge](knowledge.md)
+[Knowledge]()
 
   * # Programming Language
   * [Powershell](Powershell.md)
