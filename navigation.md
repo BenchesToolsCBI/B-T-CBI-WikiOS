@@ -13,7 +13,10 @@
   * [Tool Installation](toolInstall.md)
   * [Best Practices](BestPractices.md)
 
-[Coding rules](rules.md)
+[Coding rules]()
+  * # Rules
+  * [Powershell](Powershell.md) rules.md
+  * # Rules checker
 
   * [Tool Structure](ToolStructure.md)
   * [Naming Convention](Naming.md)
